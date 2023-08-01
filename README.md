@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hello!</h1>
 
-<p>Welcome to my page! </br> I'm Amr, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Ontario, Canada</b>. </p>
+<p>Welcome to my page! </br> I'm Amr, software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Ontario, Canada</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
