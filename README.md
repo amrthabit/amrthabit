@@ -30,7 +30,7 @@
 <h3>Find me at</h3>
 
 [![Linkedin](https://img.shields.io/badge/-amrthabit-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrthabit/)](https://www.linkedin.com/in/amrthabit/)
-[![Mail](https://img.shields.io/badge/-amrthabi7-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:amrthabi7@gmail.com)](mailto:amrthabi7@gmail.com)
+[![Mail](https://img.shields.io/badge/-email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:amrthabi7@gmail.com)](mailto:amrthabi7@gmail.com)
 [![Website](https://img.shields.io/badge/-amrthabit.com-333333?style=flat&logo=google-chrome&logoColor=white&link=https://amrthabit.com)](https://amrthabit.com)
 
 
