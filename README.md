@@ -22,7 +22,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-e0b428?style=flat&logo=prettier&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-e0b428?style=flat&logo=Javascript&logoColor=white" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-Spring Boot-6db33f?style=flat&logo=spring&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=flat&logo=GNU-bash&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
 </p>
