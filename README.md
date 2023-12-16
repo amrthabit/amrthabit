@@ -11,6 +11,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-python-306998?style=flat&logo=python&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white" />
+  <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
@@ -24,6 +25,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-e0b428?style=flat&logo=Javascript&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=flat&logo=GNU-bash&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="c#" src="https://img.shields.io/badge/-csharp-43853d?style=flat&logo=csharp&logoColor=white" />
 </p>
 
 <h3>Find me at</h3>
